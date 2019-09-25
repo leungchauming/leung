@@ -15,6 +15,8 @@ public class Test {
 		System.out.println("leung2 222 conflict");
 
 		System.out.println("leung1 2 conflict");
+		
+		System.out.println("leung2 new");
 
 	}
 	
