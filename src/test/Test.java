@@ -19,7 +19,7 @@ public class Test {
 		System.out.println("leung2 new");
 		System.out.println("leung1 2 conflict");
 		
-		System.out.println("leung1 new");
+		System.out.println("leung1 new ok this's right");
 
 	}
 	
